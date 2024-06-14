@@ -3,4 +3,5 @@ pipeline {
 	environment {
 		APPLICATION_NAME = "Eureka"
 	}
+	stages {}
 }
