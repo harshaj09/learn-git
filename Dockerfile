@@ -1,2 +1,3 @@
 FROM
 CMD
+COPY
