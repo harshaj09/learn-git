@@ -1,3 +1,4 @@
 FROM
 CMD
 COPY
+ENV
