@@ -3,3 +3,4 @@ CMD
 COPY
 ARG
 ENV
+USER
