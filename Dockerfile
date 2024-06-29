@@ -1,4 +1,5 @@
 FROM
 CMD
 COPY
+ARG
 ENV
